@@ -23,9 +23,9 @@ Catatan :
 
 - Compile dengan nama tertentu lakukanlah dengan,
 
-```nim
-nim c --out:conditional a8conditional.nim
-```
+   ```nim
+   nim c --out:conditional a8conditional.nim
+   ```
 
 ---
 
