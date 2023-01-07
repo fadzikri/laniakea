@@ -1,6 +1,6 @@
 # Laniakea
 
-Belajar bahasa Nim.
+Belajar bahasa Nim
 
 Untuk menjalankannya,
 
